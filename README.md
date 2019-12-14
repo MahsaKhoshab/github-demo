@@ -1,2 +1,2 @@
-# github-demo
-to learn basic Git workflow
+# Neural-Network ART
+
